@@ -1,0 +1,3 @@
+/home/tameer/CLionProjects/String/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tameer/CLionProjects/String/cmake-build-debug/CMakeFiles/String.dir
+/home/tameer/CLionProjects/String/cmake-build-debug/CMakeFiles/edit_cache.dir
