@@ -21,7 +21,7 @@ void Test ::String_test() {
         cout<<"concatenation of "<<s1 <<" and "<<s2<<":"<<endl;
         s1+=s2;
 
-        String s4(s1);
+        String s4;
         cout<<s1<<endl;
         cout<<"length of :"<<s1<<",is:"<<s1.length()<<endl;
         cout<<"substring from index: 2 to index: 6 in :"<<s1<<" ,is:"<<endl;

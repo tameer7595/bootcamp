@@ -23,6 +23,8 @@ include .depends
 
 clean:
 	rm -f $(OBJS) $(TARGET) .depends
+leak:
+	valgrind --leak-check=full ./$(TARGET)
 
 run: $(TARGET)
 	./$(TARGET)

@@ -25,13 +25,11 @@ public:
     int length() const;
 
 
-    void insert(unsigned int, String &);
+    String& operator=(const String &s);
 
-    void operator=(const String &s);
+    String& operator+=(const String &);
 
-    void operator+=(const String &);
-
-    void operator+(const String &str);
+    const String& operator+(const String &str);
 
     bool operator==(const String &);
 
