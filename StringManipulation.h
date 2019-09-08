@@ -1,0 +1,8 @@
+//
+// Created by tameer on 9/8/19.
+//
+
+#ifndef STRING_STRINGMANIPULATION_H
+#define STRING_STRINGMANIPULATION_H
+
+#endif //STRING_STRINGMANIPULATION_H
